@@ -9,6 +9,7 @@ $ git clone https://github.com/kirthevasank/gp-parallel-ts
 ```
 
 ### Installation & Getting Started
+- Install `gfortran` by apt
 - Run `source set_up_thompson` to set up all environment variables.
 - You also need to build the direct fortran library. For this `cd` into
   `direct_fortran` and run `bash make_direct.sh`. You will need a fortran compiler
